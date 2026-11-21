@@ -1,0 +1,16 @@
+# A customer-support assistant that drafts replies and images for a retailer.
+# Not high-risk; Article 50 transparency applies.
+
+[system]
+name = "Retail support assistant"
+role = ["provider", "deployer"]
+placed_on_market = "2026-05-15"   # before 2 Aug 2026: Art. 50(2) marking applies from 2 Dec 2026
+
+[use]
+interacts_with_people = true
+generates_synthetic_content = true
+
+[evidence]
+LITERACY = "evidence/ai-literacy-plan.md"
+T-INTERACT = "evidence/chat-disclosure.md"
+T-MARKING = "evidence/content-marking.md"

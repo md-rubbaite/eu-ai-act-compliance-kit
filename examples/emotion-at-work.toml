@@ -1,0 +1,10 @@
+# Call-centre "agent mood" scoring from webcam video. Emotion recognition at work is prohibited.
+
+[system]
+name = "Agent mood monitor"
+role = ["deployer"]
+
+[use]
+emotion_recognition = true
+workplace = true
+annex_iii = ["biometrics"]

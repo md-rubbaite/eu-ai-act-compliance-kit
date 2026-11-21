@@ -1,0 +1,18 @@
+# A CV-screening product that a company builds and also runs for its own hiring.
+# Annex III(4) employment + profiling = high-risk (from 2 Dec 2027 under the Digital Omnibus).
+
+[system]
+name = "TalentRank CV screening"
+role = ["provider", "deployer"]
+placed_on_market = "2026-03-01"
+
+[use]
+annex_iii = ["employment"]
+profiling = true
+interacts_with_people = true   # candidates use a chat assistant to apply
+workplace = true
+
+[evidence]
+LITERACY = "evidence/ai-literacy-plan.md"
+T-INTERACT = "evidence/chat-disclosure.md"
+HR-RISK = "evidence/risk-register.md"
