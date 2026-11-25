@@ -135,3 +135,5 @@ which are still being finalised.
 ---
 
 Author: [Rubbaite T. Hassain](https://tanvir.info.bd) ([LinkedIn](https://www.linkedin.com/in/rubbaite)) · Software Architect, Founder of [Datazo InfoTech](https://www.datazoinfotech.com.bd) · MIT License
+
+Architecture, requirements and review by Rubbaite T. Hassain; implementation AI-assisted.
