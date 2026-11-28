@@ -132,6 +132,18 @@ and evidence that follow from it visible. It does not cover sector law that appl
 (GDPR, product safety, financial regulation), national implementation details, or harmonised standards,
 which are still being finalised.
 
+## Need the evidence documents?
+
+`aiact` tells you which evidence is missing and when each duty applies. If you also want the documents:
+
+- **EU AI Act Evidence Kit** (USD 19): 12 Markdown templates covering 23 obligations, plus a fully worked
+  example. No AI agent needed.
+- **EU AI Act Evidence Pro** (USD 29): an agent skill that drafts each document with you from your
+  repository and team, and fails CI while any evidence is missing.
+
+Both are available at [tanvir.info.bd/products](https://www.tanvir.info.bd/products/). This tool stays free
+and open source under the MIT License.
+
 ---
 
 Author: [Rubbaite T. Hassain](https://tanvir.info.bd) ([LinkedIn](https://www.linkedin.com/in/rubbaite)) · Software Architect, Founder of [Datazo InfoTech](https://www.datazoinfotech.com.bd) · MIT License
